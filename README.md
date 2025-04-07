@@ -17,3 +17,6 @@ El programa se debe controlar con un gamepad.
 -Movimiento: stick izquierdo
 -Camara: stick derecho
 -Salto: south button (Xbox: A button / Dualshock-Dualsense: x button)
+
+## Link de youtube
+https://youtu.be/HmDKHjGgEBU
